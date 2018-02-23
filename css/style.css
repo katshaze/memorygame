@@ -85,3 +85,15 @@ footer {
 	text-decoration: none;
 	color: #F15B31;
 }
+button {
+  cursor: pointer;
+  background-color: #F15B31;
+  color: white;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  margin: 30px;
+  border-radius: 4px;
+  border: none;
+}
