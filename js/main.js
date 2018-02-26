@@ -53,7 +53,7 @@ var createBoard = function() {
 createBoard();
 
 var resetBoard = function() {
-	var images = document.getElementsByTag('img');
+	var images = document.getElementsByTagName('img');
 	for (var i = 0; i < images.length; i++) {
 	 	images[i].setAttribute('src', 'images/back.png');
 	 } 	 
